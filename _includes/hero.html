@@ -1,0 +1,45 @@
+<section class="min-h-screen items-center pt-2 bg-gradient-hero">
+  <div class="container mx-auto px-4 grid lg:grid-cols-1 gap-12 items-center">
+    <div class="space-y-8">
+      <div class="space-y-4">
+        <h1 class="text-5xl lg:text-6xl font-bold leading-tight">
+          <span class="text-electric">Fix Your</span>
+          <br>
+          <span class="text-foreground">Security Data Pipelines</span>
+        </h1>
+        <p class="text-xl text-muted-foreground leading-relaxed">
+          LogFiend is a boutique consultancy that finds and fixes issues across your security data pipelines.
+          Reduce SIEM spend, eliminate blind spots, and ship reliable alerting—fast.
+        </p>
+      </div>
+      
+      <ul class="grid sm:grid-cols-2 gap-3 text-muted-foreground">
+        <li class="flex items-start gap-2"><div class="w-1.5 h-1.5 bg-electric rounded-full mt-2"></div><span>Cut noisy alerts and false positives</span></li>
+        <li class="flex items-start gap-2"><div class="w-1.5 h-1.5 bg-electric rounded-full mt-2"></div><span>Harden ingestion, parsing, and routing</span></li>
+        <li class="flex items-start gap-2"><div class="w-1.5 h-1.5 bg-electric rounded-full mt-2"></div><span>Map gaps to SOC2/ISO requirements</span></li>
+        <li class="flex items-start gap-2"><div class="w-1.5 h-1.5 bg-electric rounded-full mt-2"></div><span>Deliver actionable, prioritized fixes</span></li>
+      </ul>
+      
+      <div class="flex flex-col sm:flex-row gap-4">
+        <a href="/docs/contact" class="btn btn-electric btn-lg text-lg px-8 py-6">
+          Book a call
+        </a>
+        <a href="/docs/services" class="btn btn-outline btn-lg text-lg px-8 py-6">
+          View services
+        </a>
+      </div>
+
+      <!-- Removed unverifiable vanity counters; focus on outcomes -->
+    </div>
+
+    <div class="relative">
+      <div class="absolute inset-0 bg-gradient-electric opacity-20 blur-3xl rounded-full"></div>
+      <img 
+        src="{{ '/assets/images/logfiend_logo_home.png' | relative_url }}"
+        alt="LogFiend security data pipeline consulting"
+        class="relative z-10 w-full h-auto rounded-2xl shadow-card-cyber"
+        width="1200" height="900" loading="eager" decoding="async"
+      />
+    </div>
+  </div>
+</section>
