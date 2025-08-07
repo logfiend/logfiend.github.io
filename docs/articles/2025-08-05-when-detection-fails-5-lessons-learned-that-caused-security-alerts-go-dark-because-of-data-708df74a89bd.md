@@ -13,4 +13,4 @@ Silent failures in your EDR pipeline could be hiding real threats. In this post,
 - ⚙️ Discover techniques to build observability into your pipeline
 - 📊 Understand why detection engineering is becoming data engineering
 
-Read Full Article - [Would you know if your EDR logs stopped flowing yesterday?](https://medium.com/@logfiend/would-you-know-if-your-edr-logs-stopped-flowing-yesterday-d3c4f9317896)
+Read Full Article - [When detection fails: 5 lessons learned that caused security alerts go dark because of data pipeline failures](https://medium.com/@logfiend/when-detection-fails-5-lessons-learned-that-caused-security-alerts-go-dark-because-of-data-708df74a89bd)
