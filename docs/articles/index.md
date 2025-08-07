@@ -1,6 +1,8 @@
 ---
 title: Articles
 nav_order: 2
+description: Articles on fixing security data pipelines, detection reliability, and SIEM efficiency.
+keywords: [security data pipelines, detections, SIEM, logging, telemetry, resilience]
 ---
 
 <div class="page-hero">

@@ -2,6 +2,8 @@
 title: Why Security Data Pipelines Need Auditing — and What It Takes to Do It Right
 parent: Articles
 nav_order: 2
+description: Why security data pipelines need auditing and what it takes to do it right.
+keywords: [security data pipelines, auditing, SIEM, detection engineering, monitoring]
 ---
 
 Security teams often assume logs are flowing, complete, and correct—but silent failures can break detection without warning. This article breaks down why auditing your data pipeline is essential and how to do it right.

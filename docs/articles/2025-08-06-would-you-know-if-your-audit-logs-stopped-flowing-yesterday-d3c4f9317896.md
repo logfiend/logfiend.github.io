@@ -2,6 +2,8 @@
 title: When detection fails - 5 lessons learned that caused security alerts go dark because of data pipeline failures
 parent: Articles
 nav_order: 3
+description: Would you know if your audit logs stopped flowing? How to detect gaps before they impact detections.
+keywords: [audit logs, data gaps, pipeline failures, detection reliability, monitoring]
 ---
 
 Security alerts can silently fail if your data pipeline breaks—here are 5 real-world lessons from when detection went dark.

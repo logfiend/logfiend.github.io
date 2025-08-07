@@ -2,6 +2,8 @@
 title: Would you know if your EDR logs stopped flowing yesterday?
 parent: Articles
 nav_order: 4
+description: Lessons learned from real incidents where detection went dark due to data issues.
+keywords: [detection failures, data pipeline, EDR logs, monitoring, blind spots]
 ---
 
 

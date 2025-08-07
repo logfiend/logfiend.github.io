@@ -2,6 +2,8 @@
 title: Why Data Pipeline Resilience Is Critical to Security Teams
 parent: Articles
 nav_order: 1
+description: Why data pipeline resilience matters for security teams; practical implications for alerts and compliance.
+keywords: [pipeline resilience, security logs, real-time detection, compliance, audit trails]
 ---
 
 In security, data delays or gaps can mean missed threats—pipeline resilience is your best defense.
