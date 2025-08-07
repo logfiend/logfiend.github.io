@@ -113,7 +113,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Schedule a meeting":
+  "Schedule Meeting":
     - "/docs/contact"
   "Pricing":
     - "/docs/pricing"

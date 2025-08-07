@@ -7,7 +7,7 @@ nav_order: 7
 <div class="page-hero">
   <div class="container">
     <h1>Contact</h1>
-    <p class="text-muted-foreground">Book a call and tell us about your environment.</p>
+    <p class="text-muted-foreground">Schedule a meeting and tell us about your environment.</p>
   </div>
 </div>
 

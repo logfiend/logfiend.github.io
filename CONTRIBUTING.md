@@ -21,7 +21,7 @@ Thank you for contributing! This repository hosts the LogFiend consulting site b
 ## Content guidelines
 
 - Prefer updating includes for shared sections across pages
-- Keep copy concise and action-oriented; primary CTA is “Book a call” → `/docs/contact`
+- Keep copy concise and action-oriented; primary CTA is “Schedule Meeting” → `/docs/contact`
 - Use `.btn`, `.btn-primary`, `.btn-outline` for CTAs
 - Use `.page-hero` for the top section of docs pages
 
